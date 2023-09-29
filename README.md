@@ -1,5 +1,5 @@
 # DM-JPEG-Encoder
-The following project was built as an Academic Project Requirement for the course **DISCRETE MATHEMATICS(SC205)** under the guidance of **Prof. Manish K Gupta(@guptalabs)**.
+The following project was built as an Academic Project Requirement for the course **DISCRETE MATHEMATICS(SC205)** under the guidance of **Prof. Manish K Gupta(@guptalabs)**.  
 Website link: https://ayushijani.github.io/index.html  
 **Group Members**  
 Pari Chauhan (202201189)  
